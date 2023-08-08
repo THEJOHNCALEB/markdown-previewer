@@ -50,7 +50,7 @@ function App() {
         <div>
           <h3>Markdown Previewer</h3>
         </div>
-        <a href='https://github.com/thejohncaleb'><i class="fa fa-github"></i></a>
+        <a href='https://github.com/THEJOHNCALEB/markdown-previewer'><i class="fa fa-github"></i></a>
       </header>
       <div className='container'>
         <div className="editor">
