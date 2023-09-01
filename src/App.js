@@ -50,7 +50,7 @@ function App() {
         <div>
           <h3>Markdown Previewer</h3>
         </div>
-      <a class="github-fork-ribbon left-top" href="https://github.com/THEJOHNCALEB/markdown-previewer" target="_blank" data-ribbon="⭐Star on GitHub" title="⭐Star on GitHub">⭐Star on GitHub</a>
+      <a class="github-fork-ribbon right-bottom" href="https://github.com/THEJOHNCALEB/markdown-previewer" target="_blank" data-ribbon="⭐Star on GitHub" title="⭐Star on GitHub">⭐Star on GitHub</a>
         <a href='https://github.com/THEJOHNCALEB/markdown-previewer'><i class="fa fa-github"></i></a>
       </header>
       <div className='container'>
